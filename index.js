@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254791637868']
+  const ownerNumber = ['254102669269']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -67,7 +67,7 @@ const {
   
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
-if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
+if(!config.SESSION_ID''HUNTER-XMD~DBozALSQ#BSc64JRL0QlF4emA_pFMh8_B-iW3VBWNN6fPPguqMOA) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace("HUNTER-XMD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
