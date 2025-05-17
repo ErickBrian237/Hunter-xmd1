@@ -27,9 +27,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ggnnes.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KHAN-MD",
+BOT_NAME: process.env.BOT_NAME || "HUNTER-XMD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "HUNTER-XMD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -37,7 +37,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254701082940XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254701082940",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "Obed TechX",
 // add bot owner name

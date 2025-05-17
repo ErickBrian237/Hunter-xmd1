@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=HUNTER%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+
+> **`Updated` HUNTER XMD with Latest Features**
+
+
 <p align="center">
   <a href="https://github.com/ObedTech003/Hunter-xmd1?tab=followers">
     <img src="https://img.shields.io/github/followers/ObedTech003?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
@@ -170,6 +176,61 @@ That's all bot connected
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
 
+### Additional Hosting Panels
+
+<a href="https://account.solarhosting.cc/" target="_blank">
+  <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
+</a>
+
+<a href="https://my.blare.host/" target="_blank">
+  <img src="https://img.shields.io/badge/Blare_Host-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="Blare Host"/>
+</a>
+
+<a href="https://dash.witchly.host/" target="_blank">
+  <img src="https://img.shields.io/badge/Witchly_Host-9B59B6?style=for-the-badge&logo=server&logoColor=white" alt="Witchly Host"/>
+</a>
+<a href="https://optiklink.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Optik_Link-2ECC71?style=for-the-badge&logo=server&logoColor=white" alt="Optik Link"/>
+</a>
+
+<a href="https://panel.sillydev.co.uk" target="_blank">
+  <img src="https://img.shields.io/badge/SillyDev_Panel-E67E22?style=for-the-badge&logo=server&logoColor=white" alt="SillyDev Panel"/>
+</a>
+
+<a href="https://cloves.mypi.co/" target="_blank">
+  <img src="https://img.shields.io/badge/Cloves_MyPi-3498DB?style=for-the-badge&logo=server&logoColor=white" alt="Cloves MyPi"/>
+</a>
+
+<a href="https://client.botwa.net/login" target="_blank">
+  <img src="https://img.shields.io/badge/BotWA_Panel-27AE60?style=for-the-badge&logo=server&logoColor=white" alt="BotWA Panel"/>
+</a>
+
+<a href="https://netherite.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Netherite_Host-8E44AD?style=for-the-badge&logo=server&logoColor=white" alt="Netherite Host"/>
+</a>
+
+<a href="https://bot-hosting.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Bot_Hosting-E74C3C?style=for-the-badge&logo=server&logoColor=white" alt="Bot Hosting"/>
+</a>
+
+<a href="https://panel.hardy.host/auth/login" target="_blank">
+  <img src="https://img.shields.io/badge/Hardy_Host-F1C40F?style=for-the-badge&logo=server&logoColor=black" alt="Hardy Host"/>
+</a>
+
+<a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
+
+<a href="https://daki.cc" target="_blank">
+  <img src="https://img.shields.io/badge/Daki_CC-34495E?style=for-the-badge&logo=server&logoColor=white" alt="Daki CC"/>
+</a>
+
+<a href="https://pella.app" target="_blank">
+  <img src="https://img.shields.io/badge/Pella_App-16A085?style=for-the-badge&logo=server&logoColor=white" alt="Pella App"/>
+</a>
+
+************
+
  --------
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -222,3 +283,7 @@ jobs:
 </details> 
 
 ***
+
+
+
+Ⓜ️ `Give THANKS` **TO OBED TECH**
